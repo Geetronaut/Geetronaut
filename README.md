@@ -34,6 +34,6 @@
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAMGEE&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geetronaut&show_icons=true&theme=graywhite)
 
 </div>

@@ -1,7 +1,8 @@
-### Hi there 👋
-
+<a href="https://nt2p.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/NonTech2Pro-FFFFFF?style=flat&logo=tistory&logoColor=000000"/></a>
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAMGEE&show_icons=true&theme=graywhite)
 <!--
-**Geetronaut/Geetronaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BAMGEE/BAMGEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
